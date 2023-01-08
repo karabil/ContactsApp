@@ -1,4 +1,4 @@
-#ContactsApp
+# ContactsApp
 
 This app demonstrated the use the following technologies:
 * Contact Provider API.
