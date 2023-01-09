@@ -8,7 +8,12 @@ This app demonstrated the use the following technologies:
 
 The goal of the app is to reverse engineer built in functionality within the android system.
 
-![Screenshot_20230109_021228](https://user-images.githubusercontent.com/48866801/211226058-c76f54a3-6bed-4cf8-818b-fac400a285fa.png)
-![Screenshot_20230109_021343](https://user-images.githubusercontent.com/48866801/211226063-8438714a-4c66-46fb-93a6-6fbfadf216cc.png)
-![Screenshot_20230109_021356](https://user-images.githubusercontent.com/48866801/211226070-2faea9c1-8d3b-4f0f-a1cb-fa81a96a73d0.png)
-![Screenshot_20230109_021726](https://user-images.githubusercontent.com/48866801/211226071-16c2eb05-c56b-44dd-83c5-b2ae83295ce5.png)
+
+<img width="418" alt="Screenshot 2023-01-09 at 2 24 02" src="https://user-images.githubusercontent.com/48866801/211226264-3f55ce43-b907-47eb-8112-31eea35f62a0.png">
+
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/48866801/211226290-5ca360e2-eca3-48df-a907-055fc81726fa.png">
+
+<img width="419" alt="image" src="https://user-images.githubusercontent.com/48866801/211226308-76ef68be-1000-45a5-8767-49d0cfc0901d.png">
+
+<img width="419" alt="image" src="https://user-images.githubusercontent.com/48866801/211226317-fa6ea456-722c-4239-aa42-e6eb13bad5e6.png">
+
